@@ -45,7 +45,8 @@ RAG enhances generative AI by incorporating retrieval mechanisms. When faced wit
 
 ## 5. Core Concepts:
 **Text Embeddings:** Numeric representations of text in vector form, capturing semantic meaning. Used for tasks like similarity searches or clustering.
-**Cosine Similarity: ** A metric to measure the similarity between two vectors (texts). The higher the cosine value (up to 1), the more similar the two texts are.
+
+**Cosine Similarity:** A metric to measure the similarity between two vectors (texts). The higher the cosine value (up to 1), the more similar the two texts are.
 
 **Vector Database:** Stores and retrieves embeddings efficiently. Examples include Pinecone, Weaviate, and Milvus.
 
